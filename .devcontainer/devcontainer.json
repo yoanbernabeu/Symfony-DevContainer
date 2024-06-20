@@ -12,5 +12,9 @@
                 "xdebug.php-debug"
             ]
         }
-    }
+    },
+    "forwardPorts": [
+        "dev:8000",
+        "mailer:8025"
+    ]
 }
