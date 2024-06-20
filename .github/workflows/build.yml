@@ -27,3 +27,4 @@ jobs:
         with:
           push: true
           tags: yoanbernabeu/symfony-dev-container:latest
+          platforms: linux/amd64,linux/arm64
